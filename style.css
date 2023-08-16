@@ -40,6 +40,10 @@ header {
     display:none;
     font-size: 30px;
 }
+.menu-cart{
+    display: flex;
+    flex-direction: row-reverse;
+}
 
 aside {
     background-color:#9ccbe6;
